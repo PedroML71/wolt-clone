@@ -64,7 +64,7 @@ export default function Index() {
           <Text style={styles.privacyText}>
             Please visit{" "}
             <Text style={styles.privacyLink}>Wolt Privacy Statement</Text> to
-            learn about personal data proccessing at Wolt.
+            learn about personal data processing at Wolt.
           </Text>
         </Animated.View>
       </View>
@@ -78,7 +78,7 @@ const styles = StyleSheet.create({
     gap: 16,
   },
   infiniteScrollContainer: {
-    flex: 0.8,
+    flex: 0.7,
     flexDirection: "row",
     justifyContent: "center",
     alignItems: "center",
